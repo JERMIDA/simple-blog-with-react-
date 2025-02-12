@@ -1,4 +1,4 @@
-# Dojo Blog  
+# Blog  
 
 Welcome to the **Dojo Blog**, a simple blogging application built using React and JSON. This project showcases my passion for web development and serves as a platform for sharing thoughts and insights.  
 
